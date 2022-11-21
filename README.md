@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=KYEONGSEO%20CHOI&fontSize=50)
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=KYEONGSEO%20CHOI&fontSize=50" />
 </div>
             
 <p>
