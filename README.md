@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=100&section=header&text=KYEONGSEO%20CHOI&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=70&section=header&text=KYEONGSEO%20CHOI&fontSize=30" />
 </div>
             
 <p>
@@ -19,5 +19,5 @@
 <div align="center">
 <!--   [![Kyeongseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90)](https://github.com/kyeongseo90/github-readme-stats) -->
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd/about)  
+  [![Velog](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd/about)  
 </div>
