@@ -14,15 +14,15 @@
 
 <div align="center">
   <p>🏆 Baekjoon solved rank 🏆</p>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudtjml21)](https://solved.ac/rudtjml21)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudtjml21)](https://solved.ac/rudtjml21)
 </div>
 
 <div align="center">
   <p> GitHub Most Use Language </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseo90&layout=compact)](https://github.com/kyeongseo90/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseo90&layout=compact)](https://github.com/kyeongseo90/github-readme-stats)
 </div>
 
 <div align="center">
   <p> Velog Link </p>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd)  
 </div>
