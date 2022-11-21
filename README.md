@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=70&section=header&text=KYEONGSEO%20CHOI&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=100&section=header&text=KYEONGSEO%20CHOI&fontSize=30" />
             
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
