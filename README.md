@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4FA095&height=300&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4FA095&height=300&section=header&text=KYEONGSEO%20CHOI&font-size=50px />
 </div>
-
-<div align="center">
-  # @Kyeongseo Choi
-</div>
+            
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+</p>
 
 <div align="center">
   ### Project
@@ -13,16 +23,13 @@
 </div>
 
 <div align="center">
-  <p>🏆 Baekjoon solved rank 🏆</p>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudtjml21)](https://solved.ac/rudtjml21)
 </div>
 
 <div align="center">
-  <p> GitHub Most Use Language </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseo90&layout=compact)](https://github.com/kyeongseo90/github-readme-stats)
 </div>
 
 <div align="center">
-  <p> Velog Link </p>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd)  
 </div>
