@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=70&section=header&text=KYEONGSEO%20CHOI&fontSize=30" />
-</div>
             
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -15,9 +14,11 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </p>
+</div>
 
-<div align="center">
-<!--   [![Kyeongseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90)](https://github.com/kyeongseo90/github-readme-stats) -->
+<!-- <div align="center">
+  [![Kyeongseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90)](https://github.com/kyeongseo90/github-readme-stats)
 
   [![Velog](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd/about)  
 </div>
+ -->
