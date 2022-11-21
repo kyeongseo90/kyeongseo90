@@ -17,13 +17,7 @@
 </p>
 
 <div align="center">
-  ### Project
-  2021.10.10 ~ 12.21 </br>
-  2022.03.02 ~ </br>
-</div>
+  [![Kyeongseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90)](https://github.com/kyeongseo90/github-readme-stats)
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseo90&layout=compact)](https://github.com/kyeongseo90/github-readme-stats)
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd)  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd/about)  
 </div>
