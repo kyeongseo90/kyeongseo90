@@ -11,18 +11,18 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Spring Boot?style=flat-square&logo=SpringBoot&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Node.js?style=flat-square&logo=NodeJs&logoColor=violet"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=NodeJs&logoColor=violet"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=yellow"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Docker?style=flat-square&logo=Docker&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git?style=flat-square&logo=React&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Firebase?style=flat-square&logo=jquery&logoColor=yellow">
-  <img src="https://img.shields.io/badge/MySQL?style=flat-square&logo=Android&logoColor=pink"/>
-  <img src="https://img.shields.io/badge/Slack?style=flat-square&logo=Slack&logoColor=violet"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=React&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=jquery&logoColor=yellow">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Android&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=violet"/>
 </p>
 </div>
 
