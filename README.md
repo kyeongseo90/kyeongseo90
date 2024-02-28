@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
-<!--   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=100&section=header&text=KYEONGSEO%20CHOI&fontSize=30" /> -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=100&section=header&text=KYEONGSEO%20CHOI&fontSize=30" /> 
 
-  <!-- <div align="center"> TECH STACK </div> -->
+  <div align="center"> **TECH STACK** </div>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 <details>
 <summary>
-  Activities
+  **Activities**
 </summary>
    창업동아리 ‘GND’ 백엔드 개발자 2023.07 ~ current <br/>
    동국대학교 인공지능 연구실 서버관리자 2022.01 ~ 2023.06 <br/>
@@ -38,7 +38,7 @@
 </details>
 <details>
 <summary>
-  Projects
+  **Projects**
 </summary>
    [스마트미러를 활용한 노인 건강 증진 자세 분류 시스템](https://github.com/kyeongseo90/gotowest-training-service) 2022.03 ~ 2022.12 <br/>
    [퍼듀대학교 인공지능 프로젝트](https://github.com/kyeongseo90/RedCedarDetection) 2021.10 ~ 2021.12 <br/>
