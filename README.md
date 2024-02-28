@@ -1,8 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=7FB77E&height=100&section=header&text=KYEONGSEO%20CHOI&fontSize=30" /> 
-
-  <div align="center"> **TECH STACK** </div>
+  <div align="center"> <h4>TECH STACK</h4> </div>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
