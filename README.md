@@ -63,7 +63,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 <details>
-<summary><strong style="font-size: larger;">🔓 Projects</strong></summary>
+<summary><strong style="font-size: larger;">💻 Projects</strong></summary>
   <div>
     <ul>
       <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ current <br/></li>
@@ -75,7 +75,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 <details>
-<summary><strong style="font-size: larger;">💻 Experience</strong></summary>
+<summary><strong style="font-size: larger;">🎫 Experience</strong></summary>
   <div>
     <ul>
       <li>창업동아리 <b>‘GND’ 백엔드 개발자</b>, 2023.07 ~ current <br/></li>
