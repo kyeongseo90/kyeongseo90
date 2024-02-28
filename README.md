@@ -89,7 +89,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90&show_icons=true&theme=Gradient)  
 <div> 
   <b>Last Updated.</b> 2024-02-28 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Contact</b> &nbsp;&nbsp;
+  <b>Contact.</b> &nbsp;&nbsp;
   <a href="mailto:rudtj9099@gmail.com">E-mail</a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://velog.io/@froajnzd/posts">Velog</a>
 </div>
