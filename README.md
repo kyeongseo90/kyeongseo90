@@ -71,6 +71,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
       <li><a href="https://github.com/kyeongseo90/RedCedarDetection">Red Cedar Tree를 감지하기 위한 <b>‘Haar Cascade‘와 ‘YOLOv4‘ 모델의 성능 비교</b></a>, 2021.10 ~ 2021.12 </li>
       <li><a href="https://github.com/kyeongseo90/CleanDining">CleanDining: 위생 음식점 지도 서비스</a>, 2022.10 ~ 2022.12</li>
       <li>기업사회프로젝트 <b>뉴로서킷 두피 측정 머신러닝 모델 및 데모 웹 개발</b>,  2022.07 ~ 2023.03 </li>
+      <li><b>실내 화재 알림 시스템 개선방안 연구</b>, 2021.03 ~ 2021.07 </li>
     </ul>
   </div>
 </details>
