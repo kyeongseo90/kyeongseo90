@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
 </div>
+<strong style="font-size: larger;">&nbsp;&nbsp;&nbsp; 👩‍💻 매일 한 걸음 나아가는 개발자</strong>
+
 <!-- <div align="center"> <h3>⚒ TECH STACK</h3> </div> -->
 
 <h4>&nbsp;&nbsp;&nbsp; ⚒ Tech Stack</h4>
