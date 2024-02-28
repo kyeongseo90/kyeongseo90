@@ -2,12 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
 </div>
 <!-- <div align="center"> <h3>⚒ TECH STACK</h3> </div> -->
-<div> 
-  <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@froajnzd"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-</div>
-
 
 <h4>&nbsp;&nbsp;&nbsp; ⚒ Tech Stack</h4>
 <div align="center">
@@ -101,15 +95,23 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rudtjml21)](https://solved.ac/rudtjml21)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseo90&show_icons=true&theme=Gradient)  
-<div> 
-  <b>Last Updated.</b> 2024-02-28 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Contact.</b> &nbsp;&nbsp;
-  <a href="mailto:rudtj9099@gmail.com">rudtj9099@gmail.com</a> &nbsp;&nbsp;&nbsp;
-  https://velog.io/@froajnzd
+-->
+
+<div align="right"> 
+  <b>Last Updated.</b> 2024-02-28 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Contact.</b> &nbsp;
+  <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
+  <a href="https://velog.io/@froajnzd"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
 
 <!--
-[![Velog](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd)  
+[![Velog](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd) 
+
+  &nbsp;&nbsp;
+  <a href="mailto:rudtj9099@gmail.com">rudtj9099@gmail.com</a> &nbsp;&nbsp;&nbsp;
+  https://velog.io/@froajnzd 
 -->
