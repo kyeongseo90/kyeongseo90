@@ -32,18 +32,18 @@
 <summary>
   Activities
 </summary>
-   ![창업동아리 ‘GND’ 백엔드 개발자]() 2023.07 ~ <p><$\color{#5ad7b7}current$</p>
-   동국대학교 인공지능 연구실 서버관리자 2022.01 ~ 2023.06
-   SW 동아리 ‘FARM’ 운영진 2022.03 ~ 2023.02
+   ![창업동아리 ‘GND’ 백엔드 개발자]() 2023.07 ~ current <br/>
+   동국대학교 인공지능 연구실 서버관리자 2022.01 ~ 2023.06 <br/>
+   SW 동아리 ‘FARM’ 운영진 2022.03 ~ 2023.02 <br/>
 </details>
 <details>
 <summary>
   Projects
 </summary>
-   ![스마트미러를 활용한 노인 건강 증진 자세 분류 시스템](https://github.com/kyeongseo90/gotowest-training-service) 2022.03 ~ 2022.12
-   ![퍼듀대학교 인공지능 프로젝트](https://github.com/kyeongseo90/RedCedarDetection) 2021.10 ~ 2021.12
-   ![위생 음식점 지도 서비스 CleanDining](https://github.com/kyeongseo90/CleanDining) 2022.10 ~ 2022.12
-   기업사회프로젝트 뉴로서킷 두피 측정 머신러닝 모델 및 데모 웹 개발   2022.03 ~ 2022.06
+   ![스마트미러를 활용한 노인 건강 증진 자세 분류 시스템](https://github.com/kyeongseo90/gotowest-training-service) 2022.03 ~ 2022.12 <br/>
+   ![퍼듀대학교 인공지능 프로젝트](https://github.com/kyeongseo90/RedCedarDetection) 2021.10 ~ 2021.12 <br/>
+   ![위생 음식점 지도 서비스 CleanDining](https://github.com/kyeongseo90/CleanDining) 2022.10 ~ 2022.12 <br/>
+   기업사회프로젝트 뉴로서킷 두피 측정 머신러닝 모델 및 데모 웹 개발   2022.03 ~ 2022.06 <br/>
 </details>
 
 <!-- <div align="center">
