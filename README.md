@@ -49,9 +49,9 @@
 <summary><strong style="font-size: larger;">🔓 Projects</strong></summary>
   <div>
     <ul>
-      <li>[스마트미러를 활용한 노인 건강 증진 자세 분류 시스템](https://github.com/kyeongseo90/gotowest-training-service) 2022.03 ~ 2022.12</li>
-      <li>[퍼듀대학교 인공지능 프로젝트](https://github.com/kyeongseo90/RedCedarDetection) 2021.10 ~ 2021.12 </li>
-      <li>[CleanDining: 위생 음식점 지도 서비스](https://github.com/kyeongseo90/CleanDining) 2022.10 ~ 2022.12</li>
+      <li><a href="https://github.com/kyeongseo90/gotowest-training-service">스마트미러를 활용한 노인 건강 증진 자세 분류 시스템</a> 2022.03 ~ 2022.12</li>
+      <li><a href="https://github.com/kyeongseo90/RedCedarDetection">퍼듀대학교 인공지능 프로젝트</a> 2021.10 ~ 2021.12 </li>
+      <li><a href="https://github.com/kyeongseo90/CleanDining">CleanDining: 위생 음식점 지도 서비스</a> 2022.10 ~ 2022.12</li>
       <li>기업사회프로젝트 뉴로서킷 두피 측정 머신러닝 모델 및 데모 웹 개발   2022.03 ~ 2022.06</li>
     </ul>
   </div>
