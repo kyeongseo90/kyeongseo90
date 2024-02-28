@@ -71,7 +71,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
       <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ current <br/></li>
       <li><a href="https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=&searchCate=literature&more=Y&research=Y&re_q1=&gu=INME001G7&cmd=qryview&SnxIndxNum=248605&rownum=2&totalCnt=12&q1_t=7KO87KKF7ZmU&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT0mc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJnExPSVDMSVENiVDMSVCRSVDOCVBRCZtb3JlPVkmZjE9TU4mcmVzZWFyY2g9WSZyZV9xMT0=&q1=%C1%D6%C1%BE%C8%AD"><b>스마트미러를 활용한 노인 건강 증진 자세 분류 시스템</b></a>, 2022.03 ~ 2022.12</li>
       <li><a href="https://github.com/kyeongseo90/RedCedarDetection">Red Cedar Tree를 감지하기 위한 <b>‘Haar Cascade‘와 ‘YOLOv4‘ 모델의 성능 비교</b></a>, 2021.10 ~ 2021.12 </li>
-      <li><a href="https://github.com/kyeongseo90/CleanDining">CleanDining: 위생 음식점 지도 서비스</a>, 2022.10 ~ 2022.12</li>
+      <li><a href="https://github.com/2022yclk/CleanDining2">CleanDining: 위생 음식점 지도 서비스</a>, 2022.10 ~ 2022.12</li>
       <li>기업사회프로젝트 <b>뉴로서킷 두피 측정 머신러닝 모델 및 데모 웹 개발</b>,  2022.07 ~ 2023.03 </li>
       <li><a href="http://ktccs.kips.or.kr/digital-library/25826"><b>에지 컴퓨팅 환경에서 비콘을 활용한 특수건물 화재 경보 시스템 개선 방안 연구</b></a>, 2021.03 ~ 2021.07 </li>
     </ul>
