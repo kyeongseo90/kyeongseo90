@@ -1,11 +1,36 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
 </div>
-<strong style="font-size: larger;">&nbsp;&nbsp;&nbsp; 👩‍💻 매일 한 걸음 나아가는 개발자</strong>
+<strong style="font-size: larger;">👩‍💻 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚑𝚘 𝚜𝚝𝚎𝚙 𝚞𝚙 𝚘𝚠𝚗 𝚎𝚏𝚏𝚘𝚛𝚝 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢</strong>&nbsp; 매일 한 걸음 나아가는 개발자
 
-<!-- <div align="center"> <h3>⚒ TECH STACK</h3> </div> -->
+<div><h4>🍋 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h4>
+  <ul>
+   <li>'우리가' 원하는 것의 내면과 본질을 파악할 수 있는 사람</li>
+   <li>'다른 사람의' 요구사항을 경청하는 사람</li>
+   <li>취미는 얇고 넓게 알아 가는 것을 좋아합니다. 최근에는 재즈 피아노🎹를 배우고 있습니다.</li>
+   <li>또 수영, 다른 사람의 영화 리뷰 탐방, 배드민턴, 밤산책, 집안일 TPO에 맞는 음악 들으며 하기.. 를 좋아합니다</li>
+   <li>특기로 홈 베이킹 레시피를 만드는 능력(!)을 갖고 싶습니다</li>
+  </ul>
+</div>
 
-<h4>&nbsp;&nbsp;&nbsp; ⚒ Tech Stack</h4>
+<div><h4>🐢 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 </h4>
+  <ul>
+   <li>하루한글 백엔드 엔지니어</li>
+   <li>신한투자증권 프로 디지털 아카데미 4기: 클라우드 기반 금융 ICT 개발자 양성과정 참여</li>
+  </ul>
+</div>
+
+<div><h4>🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 </h4>
+  <ul>
+   <li>AWS Certified Solutions Architect - Associate 취득 </li>
+   <li>SQLD 취득</li>
+   <li>서버 1개 증축하여 무중단 배포 구축</li>
+  </ul>
+</div>
+
+
+<!-- <div align="center"> <h3>⚒ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺</h3> </div> -->
+<h4>⚒ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h4>
 <div align="center">
 <p> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -56,7 +81,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 -->
 
 <details>
-<summary><strong style="font-size: larger;">🏆 Awards</strong></summary>
+<summary><strong style="font-size: larger;">🏆 𝙰𝚠𝚊𝚛𝚍𝚜</strong></summary>
   <div>
     <ul>
       <li>[Huawei ICT Academy] <b>Hauwei ICT Competition 2023-2024 Korea</b> - National Competition: <b>Cloud Track 4th Awards</b>, 2023.12 <br/></li>
@@ -65,7 +90,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 <details>
-<summary><strong style="font-size: larger;">💻 Projects</strong></summary>
+<summary><strong style="font-size: larger;">💻 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</strong></summary>
   <div>
     <ul>
       <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ current <br/></li>
@@ -78,11 +103,11 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 <details>
-<summary><strong style="font-size: larger;">🎫 Experience</strong></summary>
+<summary><strong style="font-size: larger;">🎫 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎</strong></summary>
   <div>
     <ul>
       <li>창업동아리 <b>‘GND’ 백엔드 개발자</b>, 2023.07 ~ current <br/></li>
-      <li>동국대학교 <b>인공지능 연구실 서버관리자</b>, 2022.01 ~ 2023.06</li>
+      <li><b>인공지능 연구실 서버관리자</b>, 2022.01 ~ 2023.06</li>
       <li>SW 동아리 ‘FARM’ 운영진, 2022.03 ~ 2023.02 </li>
       <li><b>K-Square Capstone Design Program at Purdue Univ</b>, 2021.10 - 12</li>
       <li><b>CPLEX 활용 Crew Pairing 알고리즘</b> 개발 연구원, 2022.03 </li>
@@ -90,7 +115,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   </div>
 </details>
 <details>
-<summary><strong style="font-size: larger;">🎨 Activities</strong></summary>
+<summary><strong style="font-size: larger;">🎨 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜</strong></summary>
   <div>
     <ul>
       <li> 삼성생명 금융 아카데미, 2023.08 <br/></li>
@@ -104,7 +129,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 -->
 
 <div align="right"> 
-  <b>Last Updated.</b> 2024-02-28 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-02-28 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Contact.</b> &nbsp;
   <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
