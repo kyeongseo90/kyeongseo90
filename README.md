@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=2000&pause=1000&color=6E85B7&center=true&width=435&lines=Hi%2C+I'm+KYEONGSEO+CHOI" alt="Typing SVG" /></a>
 </div>
-<strong style="font-size: larger;">👩‍💻 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚑𝚘 𝚜𝚝𝚎𝚙 𝚞𝚙 𝚘𝚠𝚗 𝚎𝚏𝚏𝚘𝚛𝚝 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢</strong>&nbsp; 매일 한 걸음 나아가는 개발자
+<strong style="font-size: larger;">👩‍💻 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚑𝚘 𝚜𝚝𝚎𝚙𝚜 𝚞𝚙 𝚘𝚠𝚗 𝚎𝚏𝚏𝚘𝚛𝚝 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢</strong>&nbsp; 매일 한 걸음 나아가는 개발자
 
 <div><h4>🍋 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h4>
   <ul>
