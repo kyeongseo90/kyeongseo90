@@ -30,7 +30,6 @@
 <div><h4>🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 </h4>
   <ul>
    <li>AWS Certified Solutions Architect - Associate 취득 </li>
-   <li>SQLD 취득</li>
    <li>서버 1개 증축하여 무중단 배포 구축</li>
   </ul>
 </div>
