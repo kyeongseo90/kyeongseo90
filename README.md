@@ -142,10 +142,17 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   <a href="https://velog.io/@froajnzd"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
 
+
+
 <!--
 [![Velog](https://velog-readme-stats.vercel.app/api?name=froajnzd)](https://velog.io/@froajnzd) 
 
   &nbsp;&nbsp;
   <a href="mailto:rudtj9099@gmail.com">rudtj9099@gmail.com</a> &nbsp;&nbsp;&nbsp;
   https://velog.io/@froajnzd 
+
+// 가장 많이 쓰는 언어 top8까지
+<div>
+  github-readme-stats.vercel.app/api/top-langs/?username=kyeongseo90&langs_count=8
+</div>
 -->
