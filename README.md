@@ -26,14 +26,14 @@
    <li>SQL Developer</li>
   </ul>
 </div>
-
+<!--
 <div><h4>🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 </h4>
   <ul>
-   <li>AWS Certified Solutions Architect - Associate 취득 </li>
-   <li>서버 1개 증축하여 무중단 배포 구축</li>
+   <li></li>
+   <li></li>
   </ul>
 </div>
-
+-->
 
 <!-- <div align="center"> <h3>⚒ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺</h3> </div> -->
 <h4>⚒ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h4>
@@ -135,7 +135,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 -->
 
 <div align="right"> 
-  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-03-22 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-07-12 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <b>𝘾𝙤𝙣𝙩𝙖𝙘𝙩.</b> &nbsp;
   <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
