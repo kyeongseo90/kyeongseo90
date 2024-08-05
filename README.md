@@ -42,17 +42,20 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
 </p>
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<!--  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>         -->
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
@@ -77,6 +80,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 </div>
 
@@ -99,6 +103,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
   <div>
     <ul>
       <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ current <br/></li>
+      <li><b>다이렉트 인덱싱 투자를 위한 LLM 종목 선정 어시스턴트 서비스</b> 프론트엔드/백엔드 개발, 2024.06 ~ 2024.08</li>
       <li><a href="https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=&searchCate=literature&more=Y&research=Y&re_q1=&gu=INME001G7&cmd=qryview&SnxIndxNum=248605&rownum=2&totalCnt=12&q1_t=7KO87KKF7ZmU&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT0mc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJnExPSVDMSVENiVDMSVCRSVDOCVBRCZtb3JlPVkmZjE9TU4mcmVzZWFyY2g9WSZyZV9xMT0=&q1=%C1%D6%C1%BE%C8%AD"><b>스마트미러를 활용한 노인 건강 증진 자세 분류 시스템</b></a>, 2022.03 ~ 2022.12</li>
       <li><a href="https://github.com/kyeongseo90/RedCedarDetection">Red Cedar Tree를 감지하기 위한 <b>‘Haar Cascade‘와 ‘YOLOv4‘ 모델의 성능 비교</b></a>, 2021.10 ~ 2021.12 </li>
       <li><a href="https://github.com/kyeongseo90/CleanDining2">CleanDining: 위생 음식점 지도 서비스</a>, 2022.10 ~ 2022.12</li>
@@ -134,7 +139,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 -->
 
 <div align="right"> 
-  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-07-12 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-08-05 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <b>𝘾𝙤𝙣𝙩𝙖𝙘𝙩.</b> &nbsp;
   <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
