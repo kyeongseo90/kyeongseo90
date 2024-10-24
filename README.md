@@ -20,7 +20,6 @@
 <div><h4>🐢 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 </h4>
   <ul>
    <li>하루한글 백엔드 엔지니어</li>
-   <li>신한투자증권 프로 디지털 아카데미 4기: 클라우드 기반 금융 ICT 개발자 양성과정 참여</li>
    <li>정보처리기사</li>
    <li>SQL Developer</li>
   </ul>
@@ -102,8 +101,9 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 <summary><strong style="font-size: larger;">💻 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</strong></summary>
   <div>
     <ul>
-      <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ current <br/></li>
-      <li><b>다이렉트 인덱싱 투자를 위한 LLM 종목 선정 어시스턴트 서비스</b> 프론트엔드/백엔드 개발, 2024.06 ~ 2024.08</li>
+      <li><a href="https://github.com/PDA-ARMAGYETDON"><b>모임투자 서비스 '아마곗돈'</b> 백엔드 개발</a>, 2024.07 ~ 2024.09 <br/></li>
+      <li><b>한글 교육 애플리케이션 하루한글</b> 백엔드 개발, 2023.07 ~ 2024.10 <br/></li>
+      <li><a href="https://github.com/FDI-For-Direct-Indexing"><b>다이렉트 인덱싱 투자를 위한 LLM 종목 선정 어시스턴트 서비스</b> 프론트엔드/백엔드 개발</a>, 2024.06 ~ 2024.08</li>
       <li><a href="https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=&searchCate=literature&more=Y&research=Y&re_q1=&gu=INME001G7&cmd=qryview&SnxIndxNum=248605&rownum=2&totalCnt=12&q1_t=7KO87KKF7ZmU&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOTUUmbW9kZT0mc2VhcmNoQ2F0ZT1saXRlcmF0dXJlJnExPSVDMSVENiVDMSVCRSVDOCVBRCZtb3JlPVkmZjE9TU4mcmVzZWFyY2g9WSZyZV9xMT0=&q1=%C1%D6%C1%BE%C8%AD"><b>스마트미러를 활용한 노인 건강 증진 자세 분류 시스템</b></a>, 2022.03 ~ 2022.12</li>
       <li><a href="https://github.com/kyeongseo90/RedCedarDetection">Red Cedar Tree를 감지하기 위한 <b>‘Haar Cascade‘와 ‘YOLOv4‘ 모델의 성능 비교</b></a>, 2021.10 ~ 2021.12 </li>
       <li><a href="https://github.com/kyeongseo90/CleanDining2">CleanDining: 위생 음식점 지도 서비스</a>, 2022.10 ~ 2022.12</li>
@@ -116,7 +116,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 <summary><strong style="font-size: larger;">🎫 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎</strong></summary>
   <div>
     <ul>
-      <li>창업동아리 <b>‘GND’ 백엔드 개발자</b>, 2023.07 ~ current <br/></li>
+      <li><b>한국어 학습 모바일 앱 ‘하루한글’ 백엔드 개발자</b>, 2023.07 ~ 2024.10 <br/></li>
       <li><b>인공지능 연구실 서버관리자</b>, 2022.01 ~ 2023.06</li>
       <li>SW 동아리 ‘FARM’ 운영진, 2022.03 ~ 2023.02 </li>
       <li><b>K-Square Capstone Design Program at Purdue Univ</b>, 2021.10 - 12</li>
@@ -128,6 +128,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 <summary><strong style="font-size: larger;">🎨 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜</strong></summary>
   <div>
     <ul>
+      <li> 신한투자증권 프로 디지털 아카데미 4기: 클라우드 기반 금융 ICT 개발자 양성과정 수료</li>
       <li> 삼성생명 금융 아카데미, 2023.08 <br/></li>
     </ul>
   </div>
@@ -139,7 +140,7 @@ DETAILS: <img src="https://img.shields.io/badge/표시할 이름-배경 색상?s
 -->
 
 <div align="right"> 
-  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-08-05 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>𝙇𝙖𝙨𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙙.</b> 2024-10-24 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <b>𝘾𝙤𝙣𝙩𝙖𝙘𝙩.</b> &nbsp;
   <a href="https://www.linkedin.com/in/%EA%B2%BD%EC%84%9C-%EC%B5%9C-60298325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rudtj9099@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
